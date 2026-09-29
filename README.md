@@ -17,7 +17,7 @@ Churn by employment status
 Churn by loan purpose
 Churn by employment tenure
 The results are presented through SQL analysis and an interactive Power BI dashboard.
----
+
 
 🎯 Project Objectives
 The main objectives of this project are to:
