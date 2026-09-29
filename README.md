@@ -4,7 +4,7 @@ An end-to-end data analytics project focused on analyzing loan default risk usin
 The project explores customer demographics, credit scores, account information, financial characteristics, employment, and other customer attributes to identify patterns associated with customer churn.
 The objective is to transform raw banking customer data into meaningful business insights that can help stakeholders understand which customer segments have higher churn rates and where customer retention may require further attention.
 
-📌 Business Problem**
+📌 Business Problem
 Customer retention is an important business challenge for banks. Understanding why customers leave and which customer segments have higher churn rates can help organizations make better-informed retention decisions.
 This project analyzes customer churn across different demographic, financial, and account-related characteristics.
 The analysis focuses on identifying:
